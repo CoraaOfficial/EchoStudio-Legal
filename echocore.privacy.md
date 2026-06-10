@@ -1,23 +1,27 @@
-Privacy Policy di EchoCore
-Ultimo aggiornamento: 11/08/2025
+# Privacy Policy di EchoCore
+Ultimo aggiornamento: 09/06/2026
 
-Questa Privacy Policy descrive come EchoCore raccoglie, utilizza e protegge le informazioni degli utenti.
-Utilizzando il bot, accetti i termini di questa informativa.
+Questa Privacy Policy descrive come EchoCore, sviluppato da EchoStudio, gestisce i dati degli utenti. Utilizzando il bot, accetti i termini di questa informativa.
 
-1. Dati raccolti
-	•	EchoCore può raccogliere ID utente, ID server e messaggi solo per eseguire le funzionalità richieste.
-	•	Non raccogliamo informazioni personali sensibili.
+## Titolare del trattamento
+EchoStudio è il titolare del trattamento dei dati raccolti tramite EchoCore.
+Per qualsiasi richiesta: https://discord.gg/XAZ4EMD9vN
 
-2. Uso dei dati
-	•	I dati vengono utilizzati esclusivamente per fornire le funzionalità del bot.
-	•	Non vendiamo né condividiamo i dati con terze parti.
+## Dati raccolti e Conservazione
+EchoCore memorizza in modo persistente solo i dati necessari al funzionamento delle sue funzionalità:
 
-3. Conservazione dei dati
-	•	I dati vengono conservati solo per il tempo necessario a fornire il servizio e possono essere eliminati su richiesta dell’utente.
+* **ID utente + saldo monete**: Sistema economia. Durata: finché il servizio è attivo o si richiede cancellazione.
+* **Storico transazioni**: Tracciabilità economia. Durata: finché il servizio è attivo o si richiede cancellazione.
+* **Metadati ticket (ID, stato)**: Gestione ticket. Durata: finché il servizio è attivo o si richiede cancellazione.
+* **Configurazioni server**: Personalizzazione bot. Durata: finché il bot è presente nel server.
 
-4. Sicurezza
-	•	Adottiamo misure per proteggere i dati da accessi non autorizzati.
+**Nota**: I transcript dei ticket vengono inviati direttamente nel canale selezionato dall'utente; EchoStudio non conserva il contenuto dei messaggi dei ticket. EchoCore non utilizza provider AI, pertanto nessun dato viene inviato a terze parti per elaborazioni esterne.
 
-5. Contatti
+## Uso dei dati
+I dati vengono utilizzati esclusivamente per fornire le funzionalità del bot. EchoStudio non vende i dati a terzi. Nessun messaggio, audio, foto o video viene memorizzato o trasmesso a servizi esterni.
 
-Per domande o richieste di rimozione dei dati, contattaci su Discord: https://discord.gg/XAZ4EMD9vN.
+## Diritti degli utenti (GDPR)
+Se sei residente nell'UE, hai diritto a: Accesso, Rettifica, Cancellazione, Limitazione, Portabilità e Opposizione. Contattaci su Discord per esercitare tali diritti.
+
+## Contatti
+Per assistenza o richieste sui dati: https://discord.gg/XAZ4EMD9vN
